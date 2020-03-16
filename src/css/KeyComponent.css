@@ -1,0 +1,9 @@
+button{
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+}
+.Button{
+    display: block;
+    background-color: #bbb;
+}
